@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of the Kings entertainment into Scotland on Fryday the 13 of August, 1641 as also the coppy of a speech which the speaker for Scotland spake to His Majesty : and how the effigies of my Lord Sandwidge was carv'd in wood and beheaded after he was condemned of high treason, to his disgrace and shame, although he saved his life by flight.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28864</idno><idno type="EEBO-CITATION">12763385</idno>
+  <idno type="VID">197779</idno>
+  <idno type="EEBO-PROQUEST">2248583072</idno>
+  
+            <idno type="STC">Wing R841</idno>
+            <idno type="STC">ESTC R23424</idno>
+            <idno type="OCLC">12763385</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 254:E166, no 5 or 254:E166, no 6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation of the Kings entertainment into Scotland on Fryday the 13 of August, 1641 as also the coppy of a speech which the speaker for Scotland spake to His Majesty : and how the effigies of my Lord Sandwidge was carv'd in wood and beheaded after he was condemned of high treason, to his disgrace and shame, although he saved his life by flight.</title>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another edition has Saturday the 14 of August 1641.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Traquair, John Stewart, --  Earl of, d. 1659.</term>
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197779:1"/>
+            <p>A RELATION Of the Kings Entertain<g ref="char:EOLhyphen"/>ment into Scotland on Fry<g ref="char:EOLhyphen"/>day, the 13. of <hi>August.</hi> 1641.</p>
+            <p>As also the Coppy of a Speech which the speaker for Scotland spake to his Majesty.</p>
+            <p>And how the Effigies of my Lord <hi>Sandwidge</hi> was carv'd in wood, and beheaded after he was condemned of high Treason, to his dis<g ref="char:EOLhyphen"/>grace and shame, although he saved his life by flight.</p>
+            <p>Anno Domini. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oration">
+            <pb facs="tcp:197779:2"/>
+            <pb n="3" facs="tcp:197779:2"/>
+            <head>THE SPEAKERS SPEECH.</head>
+            <head type="sub">Which was spake before the King at <hi>Edenborough</hi> 1641.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ipe away those teares from your eyes (Coun<g ref="char:EOLhyphen"/>treymen) which you have shed for the depar<g ref="char:EOLhyphen"/>ture of your king, for he is as welcome to his native Scots, as ever was the Sun to the frozen earth.</p>
+            <p>He was no sooner entred into the confines of his owne Countrey, but his subjects that they might in the best way shew their loves to their King, made the skies to ec<g ref="char:EOLhyphen"/>cho with shouts of rejoycing; they made Bonfires, and threw up their blew caps in the aire, to their joy; and as the king was entring into Edenborough, my Lord Speaker spake unto him as followeth.</p>
+            <p>My most honoured Liege, to salute your highnesse only with a welcome is nothing, for you may perceive your most obedient subjects which are of the vulgar thronging together to performe that du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie, 'tis your presence which hath given to my frozen lips utterance, and as neare as I can, I will neither think, nor speake but what shall be to your highnesse glory, and my owne credite, for it is the greatest credit among us
+<pb n="4" facs="tcp:197779:3"/>your Leige people to doe nothing but what shall please you.</p>
+            <p>With that the Commons in Scotland made knowne by their ecchoing shouts, and throwing up their Bonnets, how neare he had unfolded the secrets of their hearts.</p>
+            <p>Then the noyse being ceased he thus proceeded. I perswade my selfe (my Lord and king) that we are much ill spoken of, because that we are now in armes, I hope your majesty shall find it will prove to the good of you, and us, for we shall and will make such parties knowne, when you shall please to grace us in our Parliament, that shall fully take away all suspicion of our ills, which are supposed to be meant towards you, we have and will prove true subjects to your grace, for it weare a sinne unpardonable to doe otherwise, we having so loving, &amp; mag<g ref="char:EOLhyphen"/>nificent a Prince; Pardon my faulting, and unable speeches I beseech you, for it is my ambition to expresse our plaine downe right dealings in a plaine and easie way.</p>
+            <p>I know you cannot chuse but thinke that we have shewed our selves resolute, because we have presumed so far as to take armes, But I hope you will also suppose, that we are as loyall as the best, God knowes our thoughts, as we hope he will re<g ref="char:EOLhyphen"/>ward us accordingly, if bad we desire his just judgement, if good, I entreat your majesty to take notice of it.</p>
+            <p>After these words, there was a kind of a confused noyse, heard among the Souldiers, but an unlooked for, instant there was such a compleat vally of shot, which did as it weare thunder forth their meaning. Vpon that occasion my Lord speaker continued his speech.</p>
+            <p>Thus may you see (my most honoured Leige) how your people doe strive by all meanes possible to shew their duties and their loves, their loving duties; They have beene as spa<g ref="char:EOLhyphen"/>ring as possible might be to doe any thing that should be pre<g ref="char:EOLhyphen"/>judiciall to your majestie or your subjects in England, but what must needs be done. I perswade my selfe that if your majestie should but command the greatest thing of them to ac<g ref="char:EOLhyphen"/>complish, they would as willingly strive to performe it, and with as much good will as ever <hi>Pylades</hi> did any thing for his friend <hi>Orestes,</hi> nay my expression is below your Majesties worth, they would doe it as willingly to their powers, as the good Christian for his soules health, would doe any thing to
+<pb n="5" facs="tcp:197779:3"/>please his maket. I beseech your Majestie, that you would be pleased not to harbour an ill conceit of us, or ours, for we shall, and will be true to the Crowne, as long as life endures.</p>
+            <p>I heard lately from England, that it is credibly reported that we came into the fields with banners displayed only for poverty sake, because we would enrich our selves by the Eng<g ref="char:EOLhyphen"/>lish, our owne consciences are cleare, and reason will make it manifest.</p>
+            <p>If we had came only for wealth, then had we sought to rob, and spoyle, and felloniously to take away what we could from the inhabitants adjoyning, which we never did therefore it is cleare, we never came for any such intent, as to inrich our selves. Another thing is we came only to reveale the names of those which had with might and maine, sought to over<g ref="char:EOLhyphen"/>throw three kingdomes at once, and more we will reveale, when it shall please your majesty to set with us in our Parlia<g ref="char:EOLhyphen"/>ment, and therefore it was not for Lucre we undertooke this taske. Judge favourably therefore of our intents, which are as cleare as the noone-tide of the Day, let not the clouds of disrespects overshade your serene countenance from us; for your frowne is able to kill us, and your smile able to call us back againe to life. If you had denyed your presence among us at this time, we had wandred in darknesse, like those people which are forsaken by the sunne.</p>
+            <p>But now my Leige here is one thing more, if you desire that our army shall be disbanded, your word is a command, If not they will endure the cold of winter, and thinke themselves happy to endure for your sake. Now our King began to an<g ref="char:EOLhyphen"/>swer to his last demand.</p>
+            <p>In the first place I give you all thanks for all your kindnesse shewed unto me, and weare these troublesome times over, I should not be backward in recompencing of your good wills, but I hope you will except the will for the deed, and I will for a time remaine, and conclude that a King is your debtor.</p>
+            <p>For your vigilancie in all things I might particularly thank you for, and shall for ever (whilst it shall please God to de<g ref="char:EOLhyphen"/>taine me here in this pilgrimage) rest beholding to you, and a willing debtor. But now as for the maintenance of this ar<g ref="char:EOLhyphen"/>my I hold it very unfit, for it is seldome seene but after warre
+<pb n="6" facs="tcp:197779:4"/>comes famine, which are two of the greatest plagues which can happen to a kingdome.</p>
+            <p>At these words the Souldiers each man threw away their weapons, and threw their blew Bonnets into the ayre, with great acclamations of joy; with that our King spake unto them as followeth.</p>
+            <p>I thank you all, for all your love and good will, which I per<g ref="char:EOLhyphen"/>ceive in all your actions to flow abundantly from you, I pro<g ref="char:EOLhyphen"/>test that this your loving kindnes doth enlighten my heart, for this was alwayes my bosome axiome, that that King was not worthy of a Crowne, who would willingly give his subjects any distaste; me thinkes I see already how the Sun of our hap<g ref="char:EOLhyphen"/>pinesse begins to shew his face, thorough the thick clouds of distraction. Let all those things which have hapned be buri<g ref="char:EOLhyphen"/>ed in the rotten Sepulcher of oblivion, for my owne part, I cannot harbour any hatred in my heart, my thoughts are cleare.</p>
+            <p>But now after these words there was a kind of Ceremony to be performed, the manner of which was this.</p>
+            <p>If any man be accused of high Treason, and flyeth for it, and after be convicted, it is a Law among them that his effigies shall be cut in wood, and brought upon the scaffold with as much disgrace as if the party offending were there in his owne person. Now there was a Lord among them, which was found faulty, and accused of High Treason, for which he fled into France, thinking to escape the disgrace, as well as the death which he had deserved, but he was much de<g ref="char:EOLhyphen"/>ceived in the trusty Scots, for though he fled from death, yet they sent his shame after him: on the very same day on which our King came to his palace at Edenborough (Which was fry day night last) was his effigies brought upon the Scaffold, and there they cut off its woodden head.</p>
+            <p>Thus countrey men, may you see how willing these Scots are to please, and not to offend, you may reade in their works which they are lately gone about what their intentions are, I perswade my selfe, that they are true Christians, true subiects, and what not; let us therefore joyne with them in their good acclamations, with which the skies doe now ring, God save our King God save our King.</p>
+            <pb n="7" facs="tcp:197779:4"/>
+            <p>After all these things were performed, our King gave them all most hearty thanks, promising them to thinke of all their curtesies hereafter: and then hee was conducted to his Pal<g ref="char:EOLhyphen"/>lace, where he was received with great joy, and Gladnesse, and I doubt not but he will have kind entertainment: in the meane time this shall be my voyce.</p>
+            <closer>God Preserve and save the King.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
